@@ -20,6 +20,10 @@ NotepadDemo is a Windows application built using the Win32 SDK, designed tocontr
 - User Interface: Designed a user-friendly interface for the application with clear labels and intuitive controls for each feature.
 
 
+## Vedio
+
+https://github.com/HansikaNemade/NotepadHackDemo/issues/1#issue-2140066442
+
 ## Acknowledgements
 
  - [Astromedicomp](https://astromedicomp.org/) and [Marshalling Void](https://www.youtube.com/@marshallingvoid/videos) played a crucial role in Understanding the concepts of C / C++ programming languages and Win32 Components. I am deeply thankful to them for their invaluable teachings and hands-on exercises which makes my foundation strong to Understanding my skills to new heights.
