@@ -1,7 +1,7 @@
 
 # Notepad Controller (Notepad Hack Demo)
 
-NotepadDemo is a Windows application built using the Win32 SDK, designed tocontrol and modify the behavior of a running Notepad instance without directly interacting with the Notepad window. There is a simple  interaction between the application user Interface and the targeted 
+NotepadDemo is a Windows application built using the Win32 SDK, designed to control and modify the behavior of a running Notepad instance without directly interacting with the Notepad window. There is a simple  interaction between the application user Interface and the targeted 
  Notepad Instance.   
 
 
@@ -28,7 +28,7 @@ NotepadDemo is a Windows application built using the Win32 SDK, designed tocontr
 
  - [Astromedicomp](https://astromedicomp.org/) and [Marshalling Void](https://www.youtube.com/@marshallingvoid/videos) played a crucial role in Understanding the concepts of C / C++ programming languages and Win32 Components. I am deeply thankful to them for their invaluable teachings and hands-on exercises which makes my foundation strong to Understanding my skills to new heights.
 
- - [Programming Windows](https://shalabh.synthasite.com/resources/Programming%20Windows%20-%20Charles%20Petzold.pdf) This book helped a lot for understanding about the win32 components how they has implement in code.
+ - [Programming Windows](https://shalabh.synthasite.com/resources/Programming%20Windows%20-%20Charles%20Petzold.pdf)  by Charles Petzold This book helped a lot for understanding about the win32 components how they has implement in code.
 
  - [Windows reference pages](https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list) This pages is to understand the new feature or Components of the Technology
 
